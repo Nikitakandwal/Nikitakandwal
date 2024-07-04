@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Nikita Kandwal, a passionate technology enthusiast and a student pursuing a Bachelor of Technology. My journey in tech has led me to explore and develop skills in both web and mobile development. Here’s a bit more about me:
+I'm Nikita Kandwal, a passionate technology enthusiast and a student pursuing a Bachelor of Technology. My journey in tech has led me to explore and develop skills in both web and mobile development. Here’s a bit more about me:
 
 - 🌐 **Web Developer**: I enjoy building responsive and interactive websites.
 - 📱 **Mobile Developer**: Proficient in creating cross-platform mobile applications.
